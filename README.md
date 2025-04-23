@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mouadisfree
-- 🌱 I’m currently learning coding...!
+- 🧠 I’m currently learning coding...!
 
 <!---
 mouadisfree/mouadisfree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
