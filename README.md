@@ -2,9 +2,8 @@
 
 I'm an IT student at 1337 um6p rabat.
 
-## 🔧 Tech Stack
+## 🔧 Study
 - 💻 Languages: C
-- 🧰 Tools: Git
 
 ## 📈 GitHub Stats
 ![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&hide_title=true)
