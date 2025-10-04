@@ -6,4 +6,4 @@ I'm an IT student at 1337 um6p rabat.
 - C/C++
 
 ## 📫 How to reach me
-- [instagram](https://www.instagram.com/mouadisfree/)
+- [Linkedin](https://www.linkedin.com/in/mouadisfree/)
