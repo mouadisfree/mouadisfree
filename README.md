@@ -1,9 +1,16 @@
 # 🕊️ Hi, I'm mouadisfree
 
-I'm an IT student at 1337 um6p rabat.
+I'm an IT student at 1337 um6p rabat & content creator. 😃
 
-## 💻 Currently Learning
+## 💻 languages I speak
 - C/C++
+- JavaScript
+- Python
+
+## ⚡ Philosophy
+
+> Not everything needs to be perfect.  
+> It just needs to be Done.
 
 ## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/mouadisfree/)
