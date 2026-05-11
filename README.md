@@ -4,8 +4,6 @@ I'm an IT student at 1337 um6p rabat & content creator. 😃
 
 ## 💻 languages I speak
 - C/C++
-- JavaScript
-- Python
 
 ## ⚡ Philosophy
 
